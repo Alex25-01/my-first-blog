@@ -13,7 +13,7 @@ SECRET_KEY = 'bwovk!ry(z*ij)+zt--ugk2owu3=flml(odrb4m7yxz4^e2hou'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'my1stblog.pythonanywhere.com']
 
 
 # Application definition
